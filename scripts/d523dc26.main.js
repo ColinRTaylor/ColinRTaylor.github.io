@@ -1,1 +1,0 @@
-"use strict";$(function(){$(".button-collapse").sideNav({edge:"right",closeOnClick:!0}),$(".button-collapse2").sideNav({menuWidth:863,edge:"left",closeOnClick:!0})});

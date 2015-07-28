@@ -1,0 +1,1 @@
+"use strict";$(function(){$(".button-collapse").sideNav({edge:"right",closeOnClick:!0}),$(".button-collapse2").sideNav({menuWidth:863,edge:"left",closeOnClick:!0}),$(".parallax").parallax(),$(window).bind("scroll",function(){var a=$(window).height()-70;$(window).scrollTop()>a?$("nav").addClass("fixed"):$("nav").removeClass("fixed")})});
