@@ -3,7 +3,9 @@
      src: url("fonts/Archive.otf");
    }
 
-
+html {
+  min-height: 100%;
+}
    body {
      font-family: Archive;
      color: white;
